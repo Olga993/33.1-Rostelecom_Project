@@ -20,4 +20,5 @@ pytest-selenium.
 Проект разработан для операционной системы Windows 10 Pro 
 
 Браузер Google Chrome Версия Версия 129.0.6668.60 (Официальная сборка), (64 бит)
+
 Запуск тестов: python -m pytest -v --driver Chrome --driver-path путь/chromedriver.exe
